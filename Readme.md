@@ -1,3 +1,5 @@
+![Docker Image CI](https://github.com/chwzr/vapid-dev/workflows/Docker%20Image%20CI/badge.svg)
+
 # VAPID DEV
 You dont need NodeJs on your system!
 Vapid development in Docker Container!

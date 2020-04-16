@@ -29,7 +29,7 @@ docker build -t vapid-prod .
 ```
 
 5. The production Container is ready to be used in Kubernetes or even on a single Docker-CE host. 
-To make a test run, execute this and open (http://localhost:8080)[http://localhost:8080]
+To make a test run, execute this and open [http://localhost:8080](http://localhost:8080)
 
 ```bash
 docker run --rm -it -p 8080:80 vapid-prod
